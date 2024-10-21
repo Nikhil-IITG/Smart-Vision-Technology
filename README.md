@@ -1,5 +1,5 @@
 # Use Cases Addressed:
-Image Recognition and Classification
+Image Recognition and Classification |
 Image Preprocessing, Text Extraction, and Feature Extraction
 Counting Number of Objects Present in the Image
 Predicting Shelf Life of Vegetables and Fruits
